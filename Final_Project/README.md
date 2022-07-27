@@ -6,7 +6,7 @@ Application under test:
 
 API Documentation: 
 
-**The final project will be split into 2 sections: [Testing section](https://github.com/Xammyj/Manual_Testing_Portofolio/tree/main/Final_Project#1-testing-section) and [SQL section](https://github.com/Xammyj/Manual_Testing_Portofolio/tree/main/Final_Project#2-sql-section).**
+**The final project will be split into 2 sections: [Testing section](https://github.com/Xammyj/Manual_Testing_Portofolio/tree/main/Final_Project#1-testing-section) and [SQL section](https://github.com/Xammyj/Manual_Testing_Portofolio/tree/main/Final_Project#2-sql-section) and [API section](https://github.com/Xammyj/Manual_Testing_Portofolio/blob/main/Final_Project/README.md#3-api-section).**
 
 Tools used:
 
